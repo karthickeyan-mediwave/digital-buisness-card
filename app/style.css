@@ -1,0 +1,11 @@
+body {
+  margin: 20px;
+}
+.main-content {
+  display: flex;
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: space-around;
+  padding: 17px;
+}
