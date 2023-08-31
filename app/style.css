@@ -1,5 +1,7 @@
 body {
   margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
 }
 .main-content {
   display: flex;
@@ -8,4 +10,5 @@ body {
   margin-right: auto;
   justify-content: space-around;
   padding: 17px;
+  align-items: center;
 }
